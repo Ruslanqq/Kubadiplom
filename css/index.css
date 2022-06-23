@@ -615,6 +615,9 @@ ul {
 }
 
 @media (max-width: 750px) {
+    .body {
+        overflow-x: hidden;
+    }
     .footer__items {
         padding-top: 60px;
     }
